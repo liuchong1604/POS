@@ -1,0 +1,7 @@
+G:\source\POS\POS.Model\bin\Debug\POS.Model.exe.config
+G:\source\POS\POS.Model\bin\Debug\POS.Model.exe
+G:\source\POS\POS.Model\bin\Debug\POS.Model.pdb
+G:\source\POS\POS.Model\obj\Debug\POS.Model.csprojAssemblyReference.cache
+G:\source\POS\POS.Model\obj\Debug\POS.Model.csproj.CoreCompileInputs.cache
+G:\source\POS\POS.Model\obj\Debug\POS.Model.exe
+G:\source\POS\POS.Model\obj\Debug\POS.Model.pdb

@@ -1,0 +1,11 @@
+G:\source\POS\TestDemo\bin\Debug\TestDemo.exe.config
+G:\source\POS\TestDemo\bin\Debug\TestDemo.exe
+G:\source\POS\TestDemo\bin\Debug\TestDemo.pdb
+G:\source\POS\TestDemo\bin\Debug\POS.Model.exe
+G:\source\POS\TestDemo\bin\Debug\POS.Model.pdb
+G:\source\POS\TestDemo\bin\Debug\POS.Model.exe.config
+G:\source\POS\TestDemo\obj\Debug\TestDemo.csprojAssemblyReference.cache
+G:\source\POS\TestDemo\obj\Debug\TestDemo.csproj.CoreCompileInputs.cache
+G:\source\POS\TestDemo\obj\Debug\TestDemo.csproj.CopyComplete
+G:\source\POS\TestDemo\obj\Debug\TestDemo.exe
+G:\source\POS\TestDemo\obj\Debug\TestDemo.pdb

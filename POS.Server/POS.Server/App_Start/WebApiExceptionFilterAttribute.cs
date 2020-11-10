@@ -21,7 +21,7 @@ namespace POS.Server.App_Start
             //2.返回调用方具体的异常信息
             if(actionExecutedContext.Exception is NotImplementedException)
             {
-                actionExecutedContext.Response = new HttpResponseMessage(HttpStatusCode.NotImplemented)
+                actionExecutedContext.Response = new HttpResponseMessage(HttpStatusCode.NotImplemented);
             }
             else if(actionExecutedContext.Exception is TimeoutException)
             {

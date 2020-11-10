@@ -1,9 +1,10 @@
-﻿using POS.Server.App_Start;
+﻿
+using POS.Server.App_Start;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
-
+using System.Web.Http.Cors;
 
 namespace POS.Server
 {
@@ -12,7 +13,9 @@ namespace POS.Server
         public static void Register(HttpConfiguration config)
         {
             // Web API 配置和服务
-
+            // 解决跨域问题
+            config.EnableCors(new EnableCorsAttribute("*","*","*"));
+            config.Formatters.Remove(config.Formatters.XmlFormatter);
             // Web API 路由
             config.MapHttpAttributeRoutes();
 
